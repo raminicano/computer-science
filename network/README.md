@@ -336,6 +336,8 @@ HTTP(하이퍼텍스트 전송 프로토콜, Hypertext Transfer Protocol)는 웹
 
 ## HTTP 상태코드
 
+https://www.django-rest-framework.org/api-guide/status-codes/
+
 정보(1xx), 성공(2xx), 리다이렉션(3xx), 클라이언트 오류(4xx), 서버 오류(5xx).
 
 | **상태 코드** | **범주**       | **의미**                                          | **설명**                                                                 |
