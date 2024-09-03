@@ -193,3 +193,5 @@ ADR은 모든 프로젝트에 필수적인 것은 아니며, 복잡한 시스템
 
 <br>
 <br>
+
+https://yozm.wishket.com/magazine/detail/2743/?utm_source=slack&utm_medium=bot&utm_campaign=T04VBKA4L4Q
