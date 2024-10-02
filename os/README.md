@@ -106,6 +106,11 @@
 
 이러한 상태들은 운영체제가 프로세스를 관리하기 위한 기본적인 상태 변화를 나타내며, **문맥 교환(Context Switching)** 과정에서 프로세스의 상태가 변경됩니다.
 
+**+) 프로세스의 Running State에서 CPU 자원을 뺐기는 3가지 상황**
+- Interrupt가 발생했을 때 (timer도 포함)
+- I/O request를 하기 위해 system call을 하여 waiting상태로 넘어가는 경우
+- Process의 수행이 끝나서 terminated로 되는 경우
+  
 ---
 
 ### **2. 프로세스 제어 블록 (PCB, Process Control Block)**
